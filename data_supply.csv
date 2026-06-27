@@ -1,0 +1,649 @@
+city,month,landlord_type,listing_type,available_listings,created_listings
+Berlin,2023-01-01,PBSA,Room,386,30
+Berlin,2023-02-01,PBSA,Room,382,33
+Berlin,2023-03-01,PBSA,Room,364,29
+Berlin,2023-04-01,PBSA,Room,359,26
+Berlin,2023-05-01,PBSA,Room,348,27
+Berlin,2023-06-01,PBSA,Room,337,23
+Berlin,2023-07-01,PBSA,Room,339,24
+Berlin,2023-08-01,PBSA,Room,397,37
+Berlin,2023-09-01,PBSA,Room,376,36
+Berlin,2023-10-01,PBSA,Room,356,28
+Berlin,2023-11-01,PBSA,Room,346,25
+Berlin,2023-12-01,PBSA,Room,341,23
+Berlin,2024-01-01,PBSA,Room,413,34
+Berlin,2024-02-01,PBSA,Room,412,39
+Berlin,2024-03-01,PBSA,Room,390,31
+Berlin,2024-04-01,PBSA,Room,365,30
+Berlin,2024-05-01,PBSA,Room,380,31
+Berlin,2024-06-01,PBSA,Room,374,25
+Berlin,2024-07-01,PBSA,Room,358,27
+Berlin,2024-08-01,PBSA,Room,413,38
+Berlin,2024-09-01,PBSA,Room,425,41
+Berlin,2024-10-01,PBSA,Room,409,36
+Berlin,2024-11-01,PBSA,Room,401,32
+Berlin,2024-12-01,PBSA,Room,367,30
+Berlin,2025-01-01,PBSA,Room,420,43
+Berlin,2025-02-01,PBSA,Room,440,45
+Berlin,2025-03-01,PBSA,Room,422,37
+Berlin,2025-04-01,PBSA,Room,430,33
+Berlin,2025-05-01,PBSA,Room,416,34
+Berlin,2025-06-01,PBSA,Room,387,32
+Berlin,2025-07-01,PBSA,Room,380,32
+Berlin,2025-08-01,PBSA,Room,454,44
+Berlin,2025-09-01,PBSA,Room,436,49
+Berlin,2025-10-01,PBSA,Room,437,41
+Berlin,2025-11-01,PBSA,Room,445,34
+Berlin,2025-12-01,PBSA,Room,420,35
+Berlin,2023-01-01,PBSA,Studio,149,13
+Berlin,2023-02-01,PBSA,Studio,141,13
+Berlin,2023-03-01,PBSA,Studio,151,11
+Berlin,2023-04-01,PBSA,Studio,149,11
+Berlin,2023-05-01,PBSA,Studio,133,10
+Berlin,2023-06-01,PBSA,Studio,135,10
+Berlin,2023-07-01,PBSA,Studio,143,9
+Berlin,2023-08-01,PBSA,Studio,159,13
+Berlin,2023-09-01,PBSA,Studio,154,15
+Berlin,2023-10-01,PBSA,Studio,144,12
+Berlin,2023-11-01,PBSA,Studio,144,11
+Berlin,2023-12-01,PBSA,Studio,144,10
+Berlin,2024-01-01,PBSA,Studio,161,14
+Berlin,2024-02-01,PBSA,Studio,158,16
+Berlin,2024-03-01,PBSA,Studio,156,14
+Berlin,2024-04-01,PBSA,Studio,158,12
+Berlin,2024-05-01,PBSA,Studio,144,11
+Berlin,2024-06-01,PBSA,Studio,146,10
+Berlin,2024-07-01,PBSA,Studio,153,10
+Berlin,2024-08-01,PBSA,Studio,174,15
+Berlin,2024-09-01,PBSA,Studio,172,17
+Berlin,2024-10-01,PBSA,Studio,162,13
+Berlin,2024-11-01,PBSA,Studio,150,12
+Berlin,2024-12-01,PBSA,Studio,154,12
+Berlin,2025-01-01,PBSA,Studio,171,15
+Berlin,2025-02-01,PBSA,Studio,168,17
+Berlin,2025-03-01,PBSA,Studio,164,15
+Berlin,2025-04-01,PBSA,Studio,163,15
+Berlin,2025-05-01,PBSA,Studio,154,12
+Berlin,2025-06-01,PBSA,Studio,158,12
+Berlin,2025-07-01,PBSA,Studio,155,13
+Berlin,2025-08-01,PBSA,Studio,175,19
+Berlin,2025-09-01,PBSA,Studio,176,21
+Berlin,2025-10-01,PBSA,Studio,181,15
+Berlin,2025-11-01,PBSA,Studio,171,13
+Berlin,2025-12-01,PBSA,Studio,170,13
+Berlin,2023-01-01,PBSA,Apartment,35,3
+Berlin,2023-02-01,PBSA,Apartment,35,3
+Berlin,2023-03-01,PBSA,Apartment,35,3
+Berlin,2023-04-01,PBSA,Apartment,36,3
+Berlin,2023-05-01,PBSA,Apartment,35,2
+Berlin,2023-06-01,PBSA,Apartment,36,2
+Berlin,2023-07-01,PBSA,Apartment,36,2
+Berlin,2023-08-01,PBSA,Apartment,38,4
+Berlin,2023-09-01,PBSA,Apartment,39,4
+Berlin,2023-10-01,PBSA,Apartment,37,3
+Berlin,2023-11-01,PBSA,Apartment,37,3
+Berlin,2023-12-01,PBSA,Apartment,35,3
+Berlin,2024-01-01,PBSA,Apartment,40,4
+Berlin,2024-02-01,PBSA,Apartment,40,4
+Berlin,2024-03-01,PBSA,Apartment,39,3
+Berlin,2024-04-01,PBSA,Apartment,38,3
+Berlin,2024-05-01,PBSA,Apartment,37,3
+Berlin,2024-06-01,PBSA,Apartment,40,3
+Berlin,2024-07-01,PBSA,Apartment,38,3
+Berlin,2024-08-01,PBSA,Apartment,40,4
+Berlin,2024-09-01,PBSA,Apartment,45,4
+Berlin,2024-10-01,PBSA,Apartment,40,3
+Berlin,2024-11-01,PBSA,Apartment,41,3
+Berlin,2024-12-01,PBSA,Apartment,40,3
+Berlin,2025-01-01,PBSA,Apartment,42,4
+Berlin,2025-02-01,PBSA,Apartment,41,4
+Berlin,2025-03-01,PBSA,Apartment,41,4
+Berlin,2025-04-01,PBSA,Apartment,41,3
+Berlin,2025-05-01,PBSA,Apartment,42,3
+Berlin,2025-06-01,PBSA,Apartment,39,3
+Berlin,2025-07-01,PBSA,Apartment,38,3
+Berlin,2025-08-01,PBSA,Apartment,46,4
+Berlin,2025-09-01,PBSA,Apartment,49,5
+Berlin,2025-10-01,PBSA,Apartment,43,4
+Berlin,2025-11-01,PBSA,Apartment,41,4
+Berlin,2025-12-01,PBSA,Apartment,41,3
+Berlin,2023-01-01,Private Landlord,Room,1250,106
+Berlin,2023-02-01,Private Landlord,Room,1331,115
+Berlin,2023-03-01,Private Landlord,Room,1195,99
+Berlin,2023-04-01,Private Landlord,Room,1244,88
+Berlin,2023-05-01,Private Landlord,Room,1196,93
+Berlin,2023-06-01,Private Landlord,Room,1219,80
+Berlin,2023-07-01,Private Landlord,Room,1126,82
+Berlin,2023-08-01,Private Landlord,Room,1385,113
+Berlin,2023-09-01,Private Landlord,Room,1447,125
+Berlin,2023-10-01,Private Landlord,Room,1351,95
+Berlin,2023-11-01,Private Landlord,Room,1287,95
+Berlin,2023-12-01,Private Landlord,Room,1174,83
+Berlin,2024-01-01,Private Landlord,Room,1388,129
+Berlin,2024-02-01,Private Landlord,Room,1286,127
+Berlin,2024-03-01,Private Landlord,Room,1248,122
+Berlin,2024-04-01,Private Landlord,Room,1266,98
+Berlin,2024-05-01,Private Landlord,Room,1277,104
+Berlin,2024-06-01,Private Landlord,Room,1301,95
+Berlin,2024-07-01,Private Landlord,Room,1276,90
+Berlin,2024-08-01,Private Landlord,Room,1379,140
+Berlin,2024-09-01,Private Landlord,Room,1394,153
+Berlin,2024-10-01,Private Landlord,Room,1418,117
+Berlin,2024-11-01,Private Landlord,Room,1294,97
+Berlin,2024-12-01,Private Landlord,Room,1276,88
+Berlin,2025-01-01,Private Landlord,Room,1349,145
+Berlin,2025-02-01,Private Landlord,Room,1474,144
+Berlin,2025-03-01,Private Landlord,Room,1413,132
+Berlin,2025-04-01,Private Landlord,Room,1303,114
+Berlin,2025-05-01,Private Landlord,Room,1265,101
+Berlin,2025-06-01,Private Landlord,Room,1341,94
+Berlin,2025-07-01,Private Landlord,Room,1323,98
+Berlin,2025-08-01,Private Landlord,Room,1405,144
+Berlin,2025-09-01,Private Landlord,Room,1571,154
+Berlin,2025-10-01,Private Landlord,Room,1333,125
+Berlin,2025-11-01,Private Landlord,Room,1346,105
+Berlin,2025-12-01,Private Landlord,Room,1404,105
+Berlin,2023-01-01,Private Landlord,Studio,455,39
+Berlin,2023-02-01,Private Landlord,Studio,459,36
+Berlin,2023-03-01,Private Landlord,Studio,447,33
+Berlin,2023-04-01,Private Landlord,Studio,419,29
+Berlin,2023-05-01,Private Landlord,Studio,433,30
+Berlin,2023-06-01,Private Landlord,Studio,392,29
+Berlin,2023-07-01,Private Landlord,Studio,410,25
+Berlin,2023-08-01,Private Landlord,Studio,426,43
+Berlin,2023-09-01,Private Landlord,Studio,458,42
+Berlin,2023-10-01,Private Landlord,Studio,430,37
+Berlin,2023-11-01,Private Landlord,Studio,421,31
+Berlin,2023-12-01,Private Landlord,Studio,429,27
+Berlin,2024-01-01,Private Landlord,Studio,453,42
+Berlin,2024-02-01,Private Landlord,Studio,462,42
+Berlin,2024-03-01,Private Landlord,Studio,437,37
+Berlin,2024-04-01,Private Landlord,Studio,434,34
+Berlin,2024-05-01,Private Landlord,Studio,421,35
+Berlin,2024-06-01,Private Landlord,Studio,407,31
+Berlin,2024-07-01,Private Landlord,Studio,430,29
+Berlin,2024-08-01,Private Landlord,Studio,482,46
+Berlin,2024-09-01,Private Landlord,Studio,494,52
+Berlin,2024-10-01,Private Landlord,Studio,453,37
+Berlin,2024-11-01,Private Landlord,Studio,437,34
+Berlin,2024-12-01,Private Landlord,Studio,455,30
+Berlin,2025-01-01,Private Landlord,Studio,478,44
+Berlin,2025-02-01,Private Landlord,Studio,482,49
+Berlin,2025-03-01,Private Landlord,Studio,441,41
+Berlin,2025-04-01,Private Landlord,Studio,448,39
+Berlin,2025-05-01,Private Landlord,Studio,445,38
+Berlin,2025-06-01,Private Landlord,Studio,439,32
+Berlin,2025-07-01,Private Landlord,Studio,444,33
+Berlin,2025-08-01,Private Landlord,Studio,490,47
+Berlin,2025-09-01,Private Landlord,Studio,510,59
+Berlin,2025-10-01,Private Landlord,Studio,485,42
+Berlin,2025-11-01,Private Landlord,Studio,475,40
+Berlin,2025-12-01,Private Landlord,Studio,462,35
+Berlin,2023-01-01,Private Landlord,Apartment,456,43
+Berlin,2023-02-01,Private Landlord,Apartment,471,43
+Berlin,2023-03-01,Private Landlord,Apartment,480,36
+Berlin,2023-04-01,Private Landlord,Apartment,454,33
+Berlin,2023-05-01,Private Landlord,Apartment,443,31
+Berlin,2023-06-01,Private Landlord,Apartment,437,31
+Berlin,2023-07-01,Private Landlord,Apartment,436,29
+Berlin,2023-08-01,Private Landlord,Apartment,504,41
+Berlin,2023-09-01,Private Landlord,Apartment,526,46
+Berlin,2023-10-01,Private Landlord,Apartment,494,35
+Berlin,2023-11-01,Private Landlord,Apartment,473,35
+Berlin,2023-12-01,Private Landlord,Apartment,439,32
+Berlin,2024-01-01,Private Landlord,Apartment,502,43
+Berlin,2024-02-01,Private Landlord,Apartment,493,43
+Berlin,2024-03-01,Private Landlord,Apartment,467,39
+Berlin,2024-04-01,Private Landlord,Apartment,488,40
+Berlin,2024-05-01,Private Landlord,Apartment,437,34
+Berlin,2024-06-01,Private Landlord,Apartment,477,34
+Berlin,2024-07-01,Private Landlord,Apartment,448,32
+Berlin,2024-08-01,Private Landlord,Apartment,508,47
+Berlin,2024-09-01,Private Landlord,Apartment,525,50
+Berlin,2024-10-01,Private Landlord,Apartment,503,39
+Berlin,2024-11-01,Private Landlord,Apartment,476,38
+Berlin,2024-12-01,Private Landlord,Apartment,466,35
+Berlin,2025-01-01,Private Landlord,Apartment,476,50
+Berlin,2025-02-01,Private Landlord,Apartment,509,51
+Berlin,2025-03-01,Private Landlord,Apartment,471,42
+Berlin,2025-04-01,Private Landlord,Apartment,493,44
+Berlin,2025-05-01,Private Landlord,Apartment,473,40
+Berlin,2025-06-01,Private Landlord,Apartment,475,34
+Berlin,2025-07-01,Private Landlord,Apartment,434,36
+Berlin,2025-08-01,Private Landlord,Apartment,484,52
+Berlin,2025-09-01,Private Landlord,Apartment,538,58
+Berlin,2025-10-01,Private Landlord,Apartment,464,46
+Berlin,2025-11-01,Private Landlord,Apartment,451,42
+Berlin,2025-12-01,Private Landlord,Apartment,439,37
+Berlin,2023-01-01,Property Manager,Room,281,26
+Berlin,2023-02-01,Property Manager,Room,315,25
+Berlin,2023-03-01,Property Manager,Room,305,24
+Berlin,2023-04-01,Property Manager,Room,294,23
+Berlin,2023-05-01,Property Manager,Room,286,19
+Berlin,2023-06-01,Property Manager,Room,283,19
+Berlin,2023-07-01,Property Manager,Room,290,18
+Berlin,2023-08-01,Property Manager,Room,322,30
+Berlin,2023-09-01,Property Manager,Room,315,32
+Berlin,2023-10-01,Property Manager,Room,314,26
+Berlin,2023-11-01,Property Manager,Room,320,24
+Berlin,2023-12-01,Property Manager,Room,304,21
+Berlin,2024-01-01,Property Manager,Room,319,33
+Berlin,2024-02-01,Property Manager,Room,356,32
+Berlin,2024-03-01,Property Manager,Room,325,27
+Berlin,2024-04-01,Property Manager,Room,322,27
+Berlin,2024-05-01,Property Manager,Room,317,26
+Berlin,2024-06-01,Property Manager,Room,321,23
+Berlin,2024-07-01,Property Manager,Room,337,24
+Berlin,2024-08-01,Property Manager,Room,367,37
+Berlin,2024-09-01,Property Manager,Room,368,38
+Berlin,2024-10-01,Property Manager,Room,375,33
+Berlin,2024-11-01,Property Manager,Room,369,26
+Berlin,2024-12-01,Property Manager,Room,365,25
+Berlin,2025-01-01,Property Manager,Room,373,35
+Berlin,2025-02-01,Property Manager,Room,391,42
+Berlin,2025-03-01,Property Manager,Room,406,36
+Berlin,2025-04-01,Property Manager,Room,390,30
+Berlin,2025-05-01,Property Manager,Room,355,30
+Berlin,2025-06-01,Property Manager,Room,354,29
+Berlin,2025-07-01,Property Manager,Room,370,25
+Berlin,2025-08-01,Property Manager,Room,437,45
+Berlin,2025-09-01,Property Manager,Room,435,49
+Berlin,2025-10-01,Property Manager,Room,407,37
+Berlin,2025-11-01,Property Manager,Room,381,36
+Berlin,2025-12-01,Property Manager,Room,403,30
+Berlin,2023-01-01,Property Manager,Studio,339,27
+Berlin,2023-02-01,Property Manager,Studio,319,30
+Berlin,2023-03-01,Property Manager,Studio,313,26
+Berlin,2023-04-01,Property Manager,Studio,320,25
+Berlin,2023-05-01,Property Manager,Studio,342,24
+Berlin,2023-06-01,Property Manager,Studio,329,23
+Berlin,2023-07-01,Property Manager,Studio,330,22
+Berlin,2023-08-01,Property Manager,Studio,356,32
+Berlin,2023-09-01,Property Manager,Studio,382,35
+Berlin,2023-10-01,Property Manager,Studio,335,29
+Berlin,2023-11-01,Property Manager,Studio,356,25
+Berlin,2023-12-01,Property Manager,Studio,365,24
+Berlin,2024-01-01,Property Manager,Studio,389,36
+Berlin,2024-02-01,Property Manager,Studio,410,38
+Berlin,2024-03-01,Property Manager,Studio,394,32
+Berlin,2024-04-01,Property Manager,Studio,361,29
+Berlin,2024-05-01,Property Manager,Studio,395,28
+Berlin,2024-06-01,Property Manager,Studio,355,26
+Berlin,2024-07-01,Property Manager,Studio,376,28
+Berlin,2024-08-01,Property Manager,Studio,401,39
+Berlin,2024-09-01,Property Manager,Studio,411,42
+Berlin,2024-10-01,Property Manager,Studio,407,32
+Berlin,2024-11-01,Property Manager,Studio,395,33
+Berlin,2024-12-01,Property Manager,Studio,400,30
+Berlin,2025-01-01,Property Manager,Studio,447,42
+Berlin,2025-02-01,Property Manager,Studio,427,42
+Berlin,2025-03-01,Property Manager,Studio,422,40
+Berlin,2025-04-01,Property Manager,Studio,438,36
+Berlin,2025-05-01,Property Manager,Studio,425,36
+Berlin,2025-06-01,Property Manager,Studio,442,33
+Berlin,2025-07-01,Property Manager,Studio,437,31
+Berlin,2025-08-01,Property Manager,Studio,501,46
+Berlin,2025-09-01,Property Manager,Studio,512,58
+Berlin,2025-10-01,Property Manager,Studio,467,42
+Berlin,2025-11-01,Property Manager,Studio,472,40
+Berlin,2025-12-01,Property Manager,Studio,446,34
+Berlin,2023-01-01,Property Manager,Apartment,292,25
+Berlin,2023-02-01,Property Manager,Apartment,296,25
+Berlin,2023-03-01,Property Manager,Apartment,299,22
+Berlin,2023-04-01,Property Manager,Apartment,298,22
+Berlin,2023-05-01,Property Manager,Apartment,274,22
+Berlin,2023-06-01,Property Manager,Apartment,279,19
+Berlin,2023-07-01,Property Manager,Apartment,299,19
+Berlin,2023-08-01,Property Manager,Apartment,334,29
+Berlin,2023-09-01,Property Manager,Apartment,361,34
+Berlin,2023-10-01,Property Manager,Apartment,333,25
+Berlin,2023-11-01,Property Manager,Apartment,336,25
+Berlin,2023-12-01,Property Manager,Apartment,325,21
+Berlin,2024-01-01,Property Manager,Apartment,342,31
+Berlin,2024-02-01,Property Manager,Apartment,342,31
+Berlin,2024-03-01,Property Manager,Apartment,364,28
+Berlin,2024-04-01,Property Manager,Apartment,354,28
+Berlin,2024-05-01,Property Manager,Apartment,329,26
+Berlin,2024-06-01,Property Manager,Apartment,340,26
+Berlin,2024-07-01,Property Manager,Apartment,365,22
+Berlin,2024-08-01,Property Manager,Apartment,389,36
+Berlin,2024-09-01,Property Manager,Apartment,403,41
+Berlin,2024-10-01,Property Manager,Apartment,381,30
+Berlin,2024-11-01,Property Manager,Apartment,364,28
+Berlin,2024-12-01,Property Manager,Apartment,369,27
+Berlin,2025-01-01,Property Manager,Apartment,408,40
+Berlin,2025-02-01,Property Manager,Apartment,401,41
+Berlin,2025-03-01,Property Manager,Apartment,429,38
+Berlin,2025-04-01,Property Manager,Apartment,405,35
+Berlin,2025-05-01,Property Manager,Apartment,424,31
+Berlin,2025-06-01,Property Manager,Apartment,424,31
+Berlin,2025-07-01,Property Manager,Apartment,392,32
+Berlin,2025-08-01,Property Manager,Apartment,465,46
+Berlin,2025-09-01,Property Manager,Apartment,474,53
+Berlin,2025-10-01,Property Manager,Apartment,468,39
+Berlin,2025-11-01,Property Manager,Apartment,426,38
+Berlin,2025-12-01,Property Manager,Apartment,447,35
+Madrid,2023-01-01,PBSA,Room,62,5
+Madrid,2023-02-01,PBSA,Room,65,5
+Madrid,2023-03-01,PBSA,Room,64,6
+Madrid,2023-04-01,PBSA,Room,66,6
+Madrid,2023-05-01,PBSA,Room,69,7
+Madrid,2023-06-01,PBSA,Room,75,7
+Madrid,2023-07-01,PBSA,Room,78,7
+Madrid,2023-08-01,PBSA,Room,75,8
+Madrid,2023-09-01,PBSA,Room,80,8
+Madrid,2023-10-01,PBSA,Room,88,9
+Madrid,2023-11-01,PBSA,Room,89,9
+Madrid,2023-12-01,PBSA,Room,94,11
+Madrid,2024-01-01,PBSA,Room,94,11
+Madrid,2024-02-01,PBSA,Room,93,11
+Madrid,2024-03-01,PBSA,Room,98,12
+Madrid,2024-04-01,PBSA,Room,102,13
+Madrid,2024-05-01,PBSA,Room,98,14
+Madrid,2024-06-01,PBSA,Room,106,14
+Madrid,2024-07-01,PBSA,Room,111,16
+Madrid,2024-08-01,PBSA,Room,107,16
+Madrid,2024-09-01,PBSA,Room,118,19
+Madrid,2024-10-01,PBSA,Room,119,20
+Madrid,2024-11-01,PBSA,Room,127,19
+Madrid,2024-12-01,PBSA,Room,117,19
+Madrid,2025-01-01,PBSA,Room,123,18
+Madrid,2025-02-01,PBSA,Room,131,15
+Madrid,2025-03-01,PBSA,Room,129,17
+Madrid,2025-04-01,PBSA,Room,139,17
+Madrid,2025-05-01,PBSA,Room,143,16
+Madrid,2025-06-01,PBSA,Room,135,14
+Madrid,2025-07-01,PBSA,Room,145,15
+Madrid,2025-08-01,PBSA,Room,148,14
+Madrid,2025-09-01,PBSA,Room,149,14
+Madrid,2025-10-01,PBSA,Room,163,14
+Madrid,2025-11-01,PBSA,Room,164,12
+Madrid,2025-12-01,PBSA,Room,165,13
+Madrid,2023-01-01,PBSA,Studio,41,3
+Madrid,2023-02-01,PBSA,Studio,43,3
+Madrid,2023-03-01,PBSA,Studio,45,4
+Madrid,2023-04-01,PBSA,Studio,47,4
+Madrid,2023-05-01,PBSA,Studio,47,5
+Madrid,2023-06-01,PBSA,Studio,50,4
+Madrid,2023-07-01,PBSA,Studio,49,5
+Madrid,2023-08-01,PBSA,Studio,54,5
+Madrid,2023-09-01,PBSA,Studio,53,6
+Madrid,2023-10-01,PBSA,Studio,58,6
+Madrid,2023-11-01,PBSA,Studio,57,6
+Madrid,2023-12-01,PBSA,Studio,58,6
+Madrid,2024-01-01,PBSA,Studio,60,7
+Madrid,2024-02-01,PBSA,Studio,61,7
+Madrid,2024-03-01,PBSA,Studio,69,8
+Madrid,2024-04-01,PBSA,Studio,71,8
+Madrid,2024-05-01,PBSA,Studio,71,10
+Madrid,2024-06-01,PBSA,Studio,70,9
+Madrid,2024-07-01,PBSA,Studio,72,11
+Madrid,2024-08-01,PBSA,Studio,73,13
+Madrid,2024-09-01,PBSA,Studio,76,12
+Madrid,2024-10-01,PBSA,Studio,86,13
+Madrid,2024-11-01,PBSA,Studio,81,14
+Madrid,2024-12-01,PBSA,Studio,85,13
+Madrid,2025-01-01,PBSA,Studio,84,13
+Madrid,2025-02-01,PBSA,Studio,88,11
+Madrid,2025-03-01,PBSA,Studio,93,11
+Madrid,2025-04-01,PBSA,Studio,97,11
+Madrid,2025-05-01,PBSA,Studio,95,11
+Madrid,2025-06-01,PBSA,Studio,95,11
+Madrid,2025-07-01,PBSA,Studio,101,10
+Madrid,2025-08-01,PBSA,Studio,102,9
+Madrid,2025-09-01,PBSA,Studio,104,10
+Madrid,2025-10-01,PBSA,Studio,116,9
+Madrid,2025-11-01,PBSA,Studio,114,10
+Madrid,2025-12-01,PBSA,Studio,116,9
+Madrid,2023-01-01,PBSA,Apartment,0,0
+Madrid,2023-02-01,PBSA,Apartment,0,0
+Madrid,2023-03-01,PBSA,Apartment,0,0
+Madrid,2023-04-01,PBSA,Apartment,0,0
+Madrid,2023-05-01,PBSA,Apartment,0,0
+Madrid,2023-06-01,PBSA,Apartment,0,0
+Madrid,2023-07-01,PBSA,Apartment,0,0
+Madrid,2023-08-01,PBSA,Apartment,0,0
+Madrid,2023-09-01,PBSA,Apartment,0,0
+Madrid,2023-10-01,PBSA,Apartment,0,0
+Madrid,2023-11-01,PBSA,Apartment,0,0
+Madrid,2023-12-01,PBSA,Apartment,0,0
+Madrid,2024-01-01,PBSA,Apartment,0,0
+Madrid,2024-02-01,PBSA,Apartment,0,0
+Madrid,2024-03-01,PBSA,Apartment,0,0
+Madrid,2024-04-01,PBSA,Apartment,0,0
+Madrid,2024-05-01,PBSA,Apartment,0,0
+Madrid,2024-06-01,PBSA,Apartment,0,0
+Madrid,2024-07-01,PBSA,Apartment,0,0
+Madrid,2024-08-01,PBSA,Apartment,0,0
+Madrid,2024-09-01,PBSA,Apartment,0,0
+Madrid,2024-10-01,PBSA,Apartment,0,0
+Madrid,2024-11-01,PBSA,Apartment,0,0
+Madrid,2024-12-01,PBSA,Apartment,0,0
+Madrid,2025-01-01,PBSA,Apartment,0,0
+Madrid,2025-02-01,PBSA,Apartment,0,0
+Madrid,2025-03-01,PBSA,Apartment,0,0
+Madrid,2025-04-01,PBSA,Apartment,0,0
+Madrid,2025-05-01,PBSA,Apartment,0,0
+Madrid,2025-06-01,PBSA,Apartment,0,0
+Madrid,2025-07-01,PBSA,Apartment,0,0
+Madrid,2025-08-01,PBSA,Apartment,0,0
+Madrid,2025-09-01,PBSA,Apartment,0,0
+Madrid,2025-10-01,PBSA,Apartment,0,0
+Madrid,2025-11-01,PBSA,Apartment,0,0
+Madrid,2025-12-01,PBSA,Apartment,0,0
+Madrid,2023-01-01,Private Landlord,Room,533,42
+Madrid,2023-02-01,Private Landlord,Room,546,47
+Madrid,2023-03-01,Private Landlord,Room,541,50
+Madrid,2023-04-01,Private Landlord,Room,616,53
+Madrid,2023-05-01,Private Landlord,Room,632,57
+Madrid,2023-06-01,Private Landlord,Room,430,59
+Madrid,2023-07-01,Private Landlord,Room,468,66
+Madrid,2023-08-01,Private Landlord,Room,473,63
+Madrid,2023-09-01,Private Landlord,Room,646,67
+Madrid,2023-10-01,Private Landlord,Room,733,71
+Madrid,2023-11-01,Private Landlord,Room,685,74
+Madrid,2023-12-01,Private Landlord,Room,688,80
+Madrid,2024-01-01,Private Landlord,Room,749,86
+Madrid,2024-02-01,Private Landlord,Room,778,84
+Madrid,2024-03-01,Private Landlord,Room,729,93
+Madrid,2024-04-01,Private Landlord,Room,802,106
+Madrid,2024-05-01,Private Landlord,Room,806,111
+Madrid,2024-06-01,Private Landlord,Room,561,109
+Madrid,2024-07-01,Private Landlord,Room,576,122
+Madrid,2024-08-01,Private Landlord,Room,615,125
+Madrid,2024-09-01,Private Landlord,Room,840,146
+Madrid,2024-10-01,Private Landlord,Room,922,134
+Madrid,2024-11-01,Private Landlord,Room,924,155
+Madrid,2024-12-01,Private Landlord,Room,956,156
+Madrid,2025-01-01,Private Landlord,Room,891,125
+Madrid,2025-02-01,Private Landlord,Room,984,110
+Madrid,2025-03-01,Private Landlord,Room,937,115
+Madrid,2025-04-01,Private Landlord,Room,940,111
+Madrid,2025-05-01,Private Landlord,Room,919,104
+Madrid,2025-06-01,Private Landlord,Room,670,105
+Madrid,2025-07-01,Private Landlord,Room,734,106
+Madrid,2025-08-01,Private Landlord,Room,723,94
+Madrid,2025-09-01,Private Landlord,Room,988,97
+Madrid,2025-10-01,Private Landlord,Room,1048,80
+Madrid,2025-11-01,Private Landlord,Room,1015,85
+Madrid,2025-12-01,Private Landlord,Room,1068,78
+Madrid,2023-01-01,Private Landlord,Studio,470,35
+Madrid,2023-02-01,Private Landlord,Studio,494,39
+Madrid,2023-03-01,Private Landlord,Studio,479,44
+Madrid,2023-04-01,Private Landlord,Studio,514,42
+Madrid,2023-05-01,Private Landlord,Studio,524,52
+Madrid,2023-06-01,Private Landlord,Studio,269,52
+Madrid,2023-07-01,Private Landlord,Studio,279,54
+Madrid,2023-08-01,Private Landlord,Studio,282,54
+Madrid,2023-09-01,Private Landlord,Studio,568,56
+Madrid,2023-10-01,Private Landlord,Studio,571,60
+Madrid,2023-11-01,Private Landlord,Studio,619,64
+Madrid,2023-12-01,Private Landlord,Studio,592,66
+Madrid,2024-01-01,Private Landlord,Studio,640,74
+Madrid,2024-02-01,Private Landlord,Studio,618,73
+Madrid,2024-03-01,Private Landlord,Studio,660,75
+Madrid,2024-04-01,Private Landlord,Studio,683,88
+Madrid,2024-05-01,Private Landlord,Studio,652,86
+Madrid,2024-06-01,Private Landlord,Studio,325,94
+Madrid,2024-07-01,Private Landlord,Studio,334,106
+Madrid,2024-08-01,Private Landlord,Studio,360,115
+Madrid,2024-09-01,Private Landlord,Studio,752,120
+Madrid,2024-10-01,Private Landlord,Studio,693,123
+Madrid,2024-11-01,Private Landlord,Studio,765,125
+Madrid,2024-12-01,Private Landlord,Studio,741,135
+Madrid,2025-01-01,Private Landlord,Studio,764,100
+Madrid,2025-02-01,Private Landlord,Studio,817,91
+Madrid,2025-03-01,Private Landlord,Studio,772,93
+Madrid,2025-04-01,Private Landlord,Studio,794,90
+Madrid,2025-05-01,Private Landlord,Studio,761,94
+Madrid,2025-06-01,Private Landlord,Studio,388,87
+Madrid,2025-07-01,Private Landlord,Studio,402,83
+Madrid,2025-08-01,Private Landlord,Studio,395,71
+Madrid,2025-09-01,Private Landlord,Studio,860,80
+Madrid,2025-10-01,Private Landlord,Studio,848,69
+Madrid,2025-11-01,Private Landlord,Studio,870,73
+Madrid,2025-12-01,Private Landlord,Studio,840,69
+Madrid,2023-01-01,Private Landlord,Apartment,522,44
+Madrid,2023-02-01,Private Landlord,Apartment,566,42
+Madrid,2023-03-01,Private Landlord,Apartment,581,51
+Madrid,2023-04-01,Private Landlord,Apartment,571,56
+Madrid,2023-05-01,Private Landlord,Apartment,579,56
+Madrid,2023-06-01,Private Landlord,Apartment,191,57
+Madrid,2023-07-01,Private Landlord,Apartment,200,60
+Madrid,2023-08-01,Private Landlord,Apartment,199,61
+Madrid,2023-09-01,Private Landlord,Apartment,657,67
+Madrid,2023-10-01,Private Landlord,Apartment,710,77
+Madrid,2023-11-01,Private Landlord,Apartment,677,72
+Madrid,2023-12-01,Private Landlord,Apartment,725,79
+Madrid,2024-01-01,Private Landlord,Apartment,716,89
+Madrid,2024-02-01,Private Landlord,Apartment,733,91
+Madrid,2024-03-01,Private Landlord,Apartment,750,102
+Madrid,2024-04-01,Private Landlord,Apartment,783,96
+Madrid,2024-05-01,Private Landlord,Apartment,766,104
+Madrid,2024-06-01,Private Landlord,Apartment,245,113
+Madrid,2024-07-01,Private Landlord,Apartment,253,115
+Madrid,2024-08-01,Private Landlord,Apartment,256,120
+Madrid,2024-09-01,Private Landlord,Apartment,859,142
+Madrid,2024-10-01,Private Landlord,Apartment,923,148
+Madrid,2024-11-01,Private Landlord,Apartment,863,145
+Madrid,2024-12-01,Private Landlord,Apartment,917,153
+Madrid,2025-01-01,Private Landlord,Apartment,882,124
+Madrid,2025-02-01,Private Landlord,Apartment,896,112
+Madrid,2025-03-01,Private Landlord,Apartment,968,115
+Madrid,2025-04-01,Private Landlord,Apartment,981,109
+Madrid,2025-05-01,Private Landlord,Apartment,1032,105
+Madrid,2025-06-01,Private Landlord,Apartment,302,111
+Madrid,2025-07-01,Private Landlord,Apartment,321,102
+Madrid,2025-08-01,Private Landlord,Apartment,292,98
+Madrid,2025-09-01,Private Landlord,Apartment,992,93
+Madrid,2025-10-01,Private Landlord,Apartment,997,86
+Madrid,2025-11-01,Private Landlord,Apartment,1028,84
+Madrid,2025-12-01,Private Landlord,Apartment,1086,79
+Madrid,2023-01-01,Property Manager,Room,143,11
+Madrid,2023-02-01,Property Manager,Room,150,11
+Madrid,2023-03-01,Property Manager,Room,154,13
+Madrid,2023-04-01,Property Manager,Room,152,14
+Madrid,2023-05-01,Property Manager,Room,169,16
+Madrid,2023-06-01,Property Manager,Room,151,16
+Madrid,2023-07-01,Property Manager,Room,154,16
+Madrid,2023-08-01,Property Manager,Room,173,16
+Madrid,2023-09-01,Property Manager,Room,184,19
+Madrid,2023-10-01,Property Manager,Room,198,22
+Madrid,2023-11-01,Property Manager,Room,193,20
+Madrid,2023-12-01,Property Manager,Room,194,22
+Madrid,2024-01-01,Property Manager,Room,216,22
+Madrid,2024-02-01,Property Manager,Room,214,25
+Madrid,2024-03-01,Property Manager,Room,211,27
+Madrid,2024-04-01,Property Manager,Room,231,31
+Madrid,2024-05-01,Property Manager,Room,231,30
+Madrid,2024-06-01,Property Manager,Room,225,32
+Madrid,2024-07-01,Property Manager,Room,227,34
+Madrid,2024-08-01,Property Manager,Room,242,41
+Madrid,2024-09-01,Property Manager,Room,264,39
+Madrid,2024-10-01,Property Manager,Room,266,40
+Madrid,2024-11-01,Property Manager,Room,253,44
+Madrid,2024-12-01,Property Manager,Room,283,46
+Madrid,2025-01-01,Property Manager,Room,283,37
+Madrid,2025-02-01,Property Manager,Room,290,36
+Madrid,2025-03-01,Property Manager,Room,285,37
+Madrid,2025-04-01,Property Manager,Room,309,33
+Madrid,2025-05-01,Property Manager,Room,310,36
+Madrid,2025-06-01,Property Manager,Room,276,33
+Madrid,2025-07-01,Property Manager,Room,292,31
+Madrid,2025-08-01,Property Manager,Room,315,29
+Madrid,2025-09-01,Property Manager,Room,309,29
+Madrid,2025-10-01,Property Manager,Room,351,29
+Madrid,2025-11-01,Property Manager,Room,346,28
+Madrid,2025-12-01,Property Manager,Room,350,26
+Madrid,2023-01-01,Property Manager,Studio,106,9
+Madrid,2023-02-01,Property Manager,Studio,104,8
+Madrid,2023-03-01,Property Manager,Studio,109,9
+Madrid,2023-04-01,Property Manager,Studio,112,11
+Madrid,2023-05-01,Property Manager,Studio,125,11
+Madrid,2023-06-01,Property Manager,Studio,115,12
+Madrid,2023-07-01,Property Manager,Studio,122,12
+Madrid,2023-08-01,Property Manager,Studio,127,13
+Madrid,2023-09-01,Property Manager,Studio,136,14
+Madrid,2023-10-01,Property Manager,Studio,143,15
+Madrid,2023-11-01,Property Manager,Studio,155,14
+Madrid,2023-12-01,Property Manager,Studio,152,16
+Madrid,2024-01-01,Property Manager,Studio,165,19
+Madrid,2024-02-01,Property Manager,Studio,174,18
+Madrid,2024-03-01,Property Manager,Studio,173,21
+Madrid,2024-04-01,Property Manager,Studio,181,24
+Madrid,2024-05-01,Property Manager,Studio,188,24
+Madrid,2024-06-01,Property Manager,Studio,179,24
+Madrid,2024-07-01,Property Manager,Studio,175,29
+Madrid,2024-08-01,Property Manager,Studio,173,31
+Madrid,2024-09-01,Property Manager,Studio,202,33
+Madrid,2024-10-01,Property Manager,Studio,214,36
+Madrid,2024-11-01,Property Manager,Studio,215,38
+Madrid,2024-12-01,Property Manager,Studio,229,38
+Madrid,2025-01-01,Property Manager,Studio,224,30
+Madrid,2025-02-01,Property Manager,Studio,238,31
+Madrid,2025-03-01,Property Manager,Studio,231,27
+Madrid,2025-04-01,Property Manager,Studio,254,31
+Madrid,2025-05-01,Property Manager,Studio,254,27
+Madrid,2025-06-01,Property Manager,Studio,230,26
+Madrid,2025-07-01,Property Manager,Studio,238,28
+Madrid,2025-08-01,Property Manager,Studio,258,26
+Madrid,2025-09-01,Property Manager,Studio,278,25
+Madrid,2025-10-01,Property Manager,Studio,276,24
+Madrid,2025-11-01,Property Manager,Studio,309,25
+Madrid,2025-12-01,Property Manager,Studio,307,23
+Madrid,2023-01-01,Property Manager,Apartment,117,9
+Madrid,2023-02-01,Property Manager,Apartment,129,10
+Madrid,2023-03-01,Property Manager,Apartment,134,11
+Madrid,2023-04-01,Property Manager,Apartment,147,14
+Madrid,2023-05-01,Property Manager,Apartment,158,15
+Madrid,2023-06-01,Property Manager,Apartment,146,17
+Madrid,2023-07-01,Property Manager,Apartment,166,18
+Madrid,2023-08-01,Property Manager,Apartment,183,18
+Madrid,2023-09-01,Property Manager,Apartment,197,23
+Madrid,2023-10-01,Property Manager,Apartment,221,24
+Madrid,2023-11-01,Property Manager,Apartment,236,23
+Madrid,2023-12-01,Property Manager,Apartment,242,27
+Madrid,2024-01-01,Property Manager,Apartment,264,30
+Madrid,2024-02-01,Property Manager,Apartment,269,31
+Madrid,2024-03-01,Property Manager,Apartment,286,33
+Madrid,2024-04-01,Property Manager,Apartment,283,36
+Madrid,2024-05-01,Property Manager,Apartment,322,40
+Madrid,2024-06-01,Property Manager,Apartment,303,47
+Madrid,2024-07-01,Property Manager,Apartment,294,51
+Madrid,2024-08-01,Property Manager,Apartment,321,53
+Madrid,2024-09-01,Property Manager,Apartment,400,57
+Madrid,2024-10-01,Property Manager,Apartment,391,63
+Madrid,2024-11-01,Property Manager,Apartment,412,72
+Madrid,2024-12-01,Property Manager,Apartment,451,70
+Madrid,2025-01-01,Property Manager,Apartment,459,65
+Madrid,2025-02-01,Property Manager,Apartment,470,59
+Madrid,2025-03-01,Property Manager,Apartment,501,56
+Madrid,2025-04-01,Property Manager,Apartment,525,63
+Madrid,2025-05-01,Property Manager,Apartment,520,59
+Madrid,2025-06-01,Property Manager,Apartment,486,58
+Madrid,2025-07-01,Property Manager,Apartment,499,60
+Madrid,2025-08-01,Property Manager,Apartment,553,50
+Madrid,2025-09-01,Property Manager,Apartment,617,52
+Madrid,2025-10-01,Property Manager,Apartment,593,54
+Madrid,2025-11-01,Property Manager,Apartment,673,51
+Madrid,2025-12-01,Property Manager,Apartment,665,50
